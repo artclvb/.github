@@ -1,23 +1,28 @@
+<p>
+  <img src="https://static.wixstatic.com/media/894fb0_edf3d07adff9446d83fa0a33be6db9cc~mv2.jpg/v1/fill/w_218,h_61,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artboard%201_edited.jpg" alt="ArtClvb logo" />
+</p>
+
 # ArtClvb
 
-**A market network for the future art world.**
+ArtClvb is a Sourcing Engine for Original Art and Design.
 
-ArtClvb connects artists, collectors, curators, and galleries through a mobile platform and in-person events — making it easier to discover, buy, and sell contemporary art.
+ArtClvb is a platform that connects contemporary artists directly with consumers, retailers, institutions, and public spaces to make original art more accessible, scalable, and sustainable.
 
-## What We Do
+## Start Here
 
-- **Artist Profiles** — Artists manage their own profiles, upload work, and handle primary and secondary sales with built-in royalty support
-- **Discover Art** — Collectors can find local artists, galleries, and art openings all in one place
-- **Studio Visits** — Schedule and coordinate studio visits directly through the app
-- **Scan Public Art** — Scan artwork in the wild to connect directly to the artist's profile
-- **Art Fair | Detroit** — Our free, multi-day event showcasing contemporary work across the city
+- [Marketplace](https://app.artclvb.xyz/)
+- [Download on the App Store](https://apps.apple.com/us/app/artclvb/id6450716347)
+- [Get it on Google Play](https://play.google.com/store/apps/details?id=xyz.artclvb.ArtClvbApplication&hl=en_US)
 
-## Our Mission
+## Explore
 
-There are so many people who want to engage with and support local artists but struggle to find the avenues. ArtClvb democratizes art exposure and sales by featuring emerging artists who are typically excluded from traditional gallery representation.
+- [About](https://www.artclvb.xyz/about)
+- [Detroit Art & Design Fair](https://www.artclvb.xyz/detroit-warehouse)
+- [Events](https://www.artclvb.xyz/exhibitions)
+- [ArtClvb Magazine](https://www.artclvb.xyz/magazine)
+- [Instagram](https://www.instagram.com/art_clvb)
 
-## Links
+## Contact
 
-- [Website](https://www.artclvb.xyz)
-- [Google Play](https://play.google.com/store/apps/details?id=xyz.artclvb.ArtClvbApplication)
-- [App Store](https://apps.apple.com/app/artclvb)
+- [Contact page](https://www.artclvb.xyz/contact)
+- info@artclvb.com
